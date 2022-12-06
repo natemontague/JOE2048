@@ -1,0 +1,17 @@
+.paragraphfont{
+    color: white;
+    font-weight: bold;
+}
+.firstline{
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+}
+.containercolor {
+    color: red;
+}
+.footerfont{
+    color: rgb(59, 59, 59);
+    font-size: 12px;
+    font-weight: lighter;
+}
